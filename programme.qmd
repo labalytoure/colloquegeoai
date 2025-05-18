@@ -1,0 +1,58 @@
+---
+title: "Programme du Colloque GEOAI 2025"
+format: html
+---
+
+## 🗓 Programme Prévisionnel – Colloque GEOAI 2025
+
+### Jour 1 – Lundi 17 novembre 2025 : Cérémonie d’ouverture et visions stratégiques
+
+| Heure            | Activité                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------|
+| 08h00 – 09h00    | Accueil des participants et enregistrement                                                |
+| 09h00 – 09h30    | Ouverture officielle (discours institutionnels)                                           |
+| 09h30 – 10h00    | Présentation du colloque et de ses objectifs                                              |
+| 10h00 – 10h30    | Pause-café et networking                                                                  |
+| 10h30 – 12h30    | **Session plénière 1 : Géomatique et IA pour l’Afrique de demain**                        |
+| 12h30 – 14h00    | Déjeuner                                                                                  |
+| 14h00 – 15h30    | **Session thématique 1 : Observation de la Terre et agriculture**                         |
+| 15h30 – 15h45    | Pause                                                                                     |
+| 15h45 – 17h15    | **Session thématique 2 : IA et Big Data pour l’agriculture**                              |
+| 17h30 – 18h30    | Réception de bienvenue & visite d’exposition des partenaires                              |
+
+---
+
+### Jour 2 – Mardi 18 novembre 2025 : Sessions scientifiques et techniques
+
+| Heure            | Activité                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------|
+| 09h00 – 10h30    | **Session thématique 3 : Ressources naturelles et environnement**                         |
+| 10h30 – 10h45    | Pause                                                                                     |
+| 10h45 – 12h30    | **Session thématique 4 : Technologies émergentes pour l’agriculture intelligente**        |
+| 12h30 – 14h00    | Déjeuner                                                                                  |
+| 14h00 – 15h30    | **Atelier 1 (parallèle)** : IA appliquée aux images satellites  \n**Atelier 2 (parallèle)** : SIG open source et agriculture |
+| 15h30 – 15h45    | Pause                                                                                     |
+| 15h45 – 17h15    | **Panel de discussion** : Données ouvertes, inclusion numérique et souveraineté technologique |
+
+---
+
+### Jour 3 – Mercredi 19 novembre 2025 : Collaboration, recherche et formation
+
+| Heure            | Activité                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------|
+| 09h00 – 10h30    | **Session thématique 5 : Gouvernance des données et inclusion numérique**                |
+| 10h30 – 10h45    | Pause                                                                                     |
+| 10h45 – 12h30    | **Session thématique 6 : Recherche, formation et innovation collaborative**               |
+| 12h30 – 14h00    | Déjeuner                                                                                  |
+| 14h00 – 15h30    | **Atelier 3** : Drones et agriculture de précision  \n**Atelier 4** : IA pour la modélisation spatiale |
+| 15h30 – 15h45    | Pause                                                                                     |
+| 15h45 – 17h15    | **Session spéciale jeunes chercheurs / doctorants** (communications flash + échanges)   |
+
+---
+
+### Jour 4 – Jeudi 20 novembre 2025 : Excursion scientifique
+
+| Heure            | Activité                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------|
+| Toute la journée | **Excursion dans le delta du Saloum** : sortie de terrain axée sur la gestion intégrée des écosystèmes, l’observation des milieux agricoles et naturels, les pratiques locales durables et l’usage de la géomatique pour la planification territoriale. Démonstrations de drones, collecte de données in situ et échanges avec des acteurs locaux. |
+
