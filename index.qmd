@@ -1,0 +1,15 @@
+---
+title: "Colloque International GEOAI 2025"
+format: html
+---
+
+# Bienvenue au Colloque GEOAI
+
+**Thème :** *Géomatique et IA au service d’une Agriculture durable et intelligente*  
+📍 Kaolack (Sénégal)  
+
+📅 Du 17 au 20 novembre 2025
+
+Ce colloque vise à explorer les innovations et applications de l’intelligence artificielle dans les sciences géospatiales, au service du développement durable agricole en Afrique.
+
+[Consultez l'appel à communication](appel.qmd)

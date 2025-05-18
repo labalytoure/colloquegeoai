@@ -1,0 +1,33 @@
+---
+title: "Comité scientifique"
+format: html
+---
+
+# Comité scientifique
+
+- Pr Cheikh THIAW, USSEIN  
+- Pr Khalifa Ababacar SYLLA, USSEIN  
+- Pr Boubou Aldiouma Sy, Université Gaston Berger, Sénégal  
+- Pr Jean Paul RUDANT  
+- Pr Souleye WADE  
+- Dr Tidiane SANE, UASZ  
+- Dr Karalan SY, USSEIN  
+- Dr Djibril DIOP, USSEIN  
+- Dr Niokhor BAKHOUM, USSEIN  
+- Dr Mouhamadou Moustapha DIOUF, Baamtu  
+- Dr Moussa SOW, USSEIN  
+- Dr Dame DIONGUE, UGB  
+- Prof. ADJOUSSI Pessièzoum, Université de Lomé  
+- Prof. Fernand Koffi KOUAME, Côte d’Ivoire  
+- Dr Labaly TOURE, USSEIN  
+- Dr Eric KALY, USSEIN  
+- Pr Emmanuel BONNET, PRODIG, IRD  
+- Dr Racine LY, AKADEMYA  
+- Dr Ndeye Marieme SAMB, UAM, Sénégal  
+- Dr Moussa GUEYE, USSEIN  
+- Dr Pascal FAYE, USSEIN  
+- Pr Meissa MBAYE, UGB  
+- Dr Babacar FAYE, USSEIN  
+- Dr Papa Ngore SADIO, USSEIN  
+- Dr Mamadou SY, USSEIN  
+- Pr Marc YOUATAN, Côte d’Ivoire  

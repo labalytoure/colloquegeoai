@@ -1,0 +1,45 @@
+---
+title: "Appel à communication"
+format: html
+---
+
+# Appel à communication
+
+## Thème
+**Géomatique et IA au service d’une Agriculture durable et intelligente**
+
+📍 Kaolack  
+📅 Du 17 au 20 novembre 2025
+
+## Contexte
+Dans un monde en constante mutation, marqué par l’urbanisation rapide, le changement climatique, la pression sur les ressources naturelles et les défis de gouvernance, la convergence entre technologies géospatiales et intelligence artificielle (IA) offre des opportunités sans précédent pour l’analyse, la gestion et la valorisation des données spatiales. Ce colloque s’inscrit dans un contexte où l’Afrique, tout en faisant face à de grands défis de développement durable, dispose d’un potentiel immense en matière de données géographiques (imagerie satellite, drones, capteurs, SIG), dont la valorisation passe désormais par des capacités d’analyse avancées grâce à l’IA : apprentissage automatique, vision par ordinateur, modélisation prédictive, etc.
+
+## Objectifs
+
+### Objectif général
+Créer un espace de dialogue, de partage et d’innovation autour des usages de l’intelligence artificielle appliquée aux sciences géospatiales, pour accompagner les politiques publiques de développement durable.
+
+### Objectifs spécifiques
+- Mettre en lumière les innovations en IA appliquées à la géomatique ;
+- Favoriser les échanges scientifiques et techniques ;
+- Identifier les opportunités de collaboration ;
+- Encourager les solutions open source adaptées ;
+- Contribuer à des feuilles de route géotech africaines.
+
+## Axes thématiques
+
+1. **Systèmes d’Observation de la Terre et Agriculture**  
+2. **IA et Big Data pour l’Agriculture**  
+3. **Géomatique et gestion durable des ressources naturelles**  
+4. **Technologies émergentes pour l’agriculture intelligente**  
+5. **Politiques, gouvernance des données et inclusion numérique**  
+6. **Formations, recherche et innovation collaborative**
+
+## Public cible
+Chercheurs, enseignants-chercheurs, étudiants, décideurs publics, praticiens, startups, développeurs, partenaires techniques et financiers.
+
+## Soumission des propositions
+- Résumé (max. 500 mots)
+- À envoyer à : **[adresse à compléter]**
+- **Date limite** : 10 juillet 2025
+- **Notification** : 8 août 2025

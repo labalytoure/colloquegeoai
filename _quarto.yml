@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Colloque GEOAI 2025"
+  navbar:
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Appel à communication"
+        href: appel.qmd
+      - text: "Comité scientifique"
+        href: comite.qmd
+      - text: "Comité d'organisation"
+        href: com_org.qmd
+      - text: "Programme"
+        href: comite.qmd
+  page-footer:
+    left: "© 2025 - GEOAI"
+    right: "Kaolack, Sénégal"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
