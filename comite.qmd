@@ -17,8 +17,8 @@ format: html
 - Dr Mouhamadou Moustapha DIOUF, Baamtu  
 - Dr Moussa SOW, USSEIN  
 - Dr Dame DIONGUE, UGB  
-- Prof. ADJOUSSI Pessièzoum, Université de Lomé  
-- Prof. Fernand Koffi KOUAME, Côte d’Ivoire  
+- Pr ADJOUSSI Pessièzoum, Université de Lomé  
+- Pr Fernand Koffi KOUAME, Côte d’Ivoire  
 - Dr Labaly TOURE, USSEIN  
 - Dr Eric KALY, USSEIN  
 - Pr Emmanuel BONNET, PRODIG, IRD  
