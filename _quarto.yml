@@ -15,7 +15,7 @@ website:
       - text: "Comité d'organisation"
         href: com_org.qmd
       - text: "Programme"
-        href: comite.qmd
+        href: programme.qmd
   page-footer:
     left: "© 2025 - GEOAI"
     right: "Kaolack, Sénégal"
