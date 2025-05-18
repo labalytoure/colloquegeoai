@@ -8,7 +8,7 @@ format: html
 ## Thème
 **Géomatique et IA au service d’une Agriculture durable et intelligente**
 
-📍 Kaolack  
+📍 Kaolack, SENEGAL 
 📅 Du 17 au 20 novembre 2025
 
 ## Contexte
@@ -20,7 +20,7 @@ Dans un monde en constante mutation, marqué par l’urbanisation rapide, le cha
 Créer un espace de dialogue, de partage et d’innovation autour des usages de l’intelligence artificielle appliquée aux sciences géospatiales, pour accompagner les politiques publiques de développement durable.
 
 ### Objectifs spécifiques
-- Mettre en lumière les innovations en IA appliquées à la géomatique ;
+- Mettre en lumière les innovations en IA appliquées et en Géomatique ;
 - Favoriser les échanges scientifiques et techniques ;
 - Identifier les opportunités de collaboration ;
 - Encourager les solutions open source adaptées ;
@@ -40,6 +40,6 @@ Chercheurs, enseignants-chercheurs, étudiants, décideurs publics, praticiens, 
 
 ## Soumission des propositions
 - Résumé (max. 500 mots)
-- À envoyer à : **[adresse à compléter]**
+- À envoyer à : **colloque@ussein.edu.sn**
 - **Date limite** : 10 juillet 2025
 - **Notification** : 8 août 2025
