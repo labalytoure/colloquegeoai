@@ -1,10 +1,11 @@
 project:
   type: website
   output-dir: docs
-
 website:
   title: "Colloque GEOAI 2025"
+  page-navigation: false
   navbar:
+     
     left:
       - text: "Accueil"
         href: index.qmd
@@ -16,12 +17,14 @@ website:
         href: com_org.qmd
       - text: "Programme"
         href: programme.qmd
-  page-footer:
-    left: "© 2025 - GEOAI"
-    right: "Kaolack, Sénégal"
+      
+  page-footer: "© 2025 - GEOAI, Kaolack, Sénégal "
+  margin-header: |
+    ![](/img/ussein.png)
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: lumen
     css: styles.css
     toc: true
