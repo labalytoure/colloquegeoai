@@ -27,4 +27,4 @@ format:
     page-layout: full
     theme: lumen
     css: styles.css
-    toc: true
+    toc: false

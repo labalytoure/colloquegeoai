@@ -13,3 +13,8 @@ format: html
 Ce colloque vise à explorer les innovations et applications de l’intelligence artificielle dans les sciences géospatiales, au service du développement durable agricole en Afrique.
 
 [Consultez l'appel à communication](appel.qmd)
+
+:::{layaout-ncol=2}
+![](img/sen-spatial.png){width=50%}
+
+:::
