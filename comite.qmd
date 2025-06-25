@@ -30,4 +30,5 @@ format: html
 - Dr Babacar FAYE, USSEIN  
 - Dr Papa Ngore SADIO, USSEIN  
 - Dr Mamadou SY, USSEIN  
-- Pr Marc YOUATAN, Côte d’Ivoire  
+- Pr Marc YOUATAN, Côte d’Ivoire 
+- PER USSEIN
