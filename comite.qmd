@@ -23,7 +23,6 @@ format: html
 - Dr Eric KALY, USSEIN  
 - Pr Emmanuel BONNET, PRODIG, IRD  
 - Dr Racine LY, AKADEMYA  
-- Dr Ndeye Marieme SAMB, UAM, Sénégal  
 - Dr Moussa GUEYE, USSEIN  
 - Dr Pascal FAYE, USSEIN  
 - Pr Meissa MBAYE, UGB  
